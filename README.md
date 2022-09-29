@@ -1,6 +1,6 @@
 ## ⚠️ WARNING!!
 
-#### This is very much a work in progress and should not be entirely trusted form the time being.
+#### This is very much a work in progress and should not be entirely trusted for the time being.
 
 #### There are steps missing, some half-finished code, maybe an _eror_ or _too_.
 
