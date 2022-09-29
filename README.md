@@ -2,7 +2,7 @@
 
 #### This is very much a work in progress and should not be entirely trusted form the time being.
 
-#### There are steps missing, some hal-finished code, maybe an _eror_ or _too_.
+#### There are steps missing, some half-finished code, maybe an _eror_ or _too_.
 
 ### 1. Enter your project directory.
 
