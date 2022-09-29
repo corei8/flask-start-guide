@@ -1,3 +1,9 @@
+## ⚠️ WARNING!!
+
+#### This is very much a work in progress and should not be entirely trusted form the time being.
+
+#### There are steps missing, some hal-finished code, maybe an _eror_ or _too_.
+
 ### 1. Enter your project directory.
 
 ```zsh
@@ -58,3 +64,8 @@ $ python
 ```
 
 This procedure is quite important and you will have to do this many times throughout your project. Everytime you have to rebuild your databases or add a new one, you have to rebuild. If you are having issues with data not being in a database, then this is the first thing you should check.
+
+## Larger Applications
+
+You will want to make your project a package, which will make your life easier as the project gets larger.
+
