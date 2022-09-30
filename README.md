@@ -69,3 +69,9 @@ This procedure is quite important and you will have to do this many times throug
 
 You will want to make your project a package, which will make your life easier as the project gets larger.
 
+You can run you application with:
+
+```bash
+flask --app project run
+```
+
