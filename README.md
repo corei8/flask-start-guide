@@ -60,7 +60,7 @@ While still in the ```project``` directory:
 $ python
 >>> from project import db  # import the database object
 >>> db.create_all()         # create the database
->>> quite()                 # exit the python shell
+>>> quit()                 # exit the python shell
 ```
 
 This procedure is quite important and you will have to do this many times throughout your project. Everytime you have to rebuild your databases or add a new one, you have to rebuild. If you are having issues with data not being in a database, then this is the first thing you should check.
